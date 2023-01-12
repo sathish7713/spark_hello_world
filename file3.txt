@@ -1,2 +1,2 @@
 this is sample file
-i am making changes to this file file3 while two files are in stash
+adding changes in newbranch2
