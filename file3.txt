@@ -1,3 +1,5 @@
-this is sample file
-i am making changes to this file file3 while two files are in stash
+this is sample f
+i am making changes o this file file3 while two files are in stash
 code chanes in master
+adding changes in newbranch2
+
